@@ -31,7 +31,7 @@
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-react": "^7.10.4",
     "app-manifest-loader": "^2.4.1",
-    "aws-sdk": "^2.709.0",
+    "aws-sdk": "^2.1536.0",
     "babel-loader": "^8.1.0",
     "clean-webpack-plugin": "^0.1.19",
     "cross-env": "^5.2.1",
